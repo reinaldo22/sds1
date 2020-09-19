@@ -1,4 +1,3 @@
-import { format } from 'path';
 import React from 'react';
 import './style.css';
 import { ReactComponent as Logo} from '../../assets/logo.svg';
