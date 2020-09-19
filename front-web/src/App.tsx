@@ -1,10 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/header';
 
 function App() {
   return (
-    <h1>Olá Mundinho</h1>
+    
+    <div>
+      <Header/>
+    </div>
   );
 }
 
